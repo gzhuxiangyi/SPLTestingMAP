@@ -4,11 +4,11 @@
  *  
  * Reference: 
  *  
- * Yi Xiang, Xiaowei Yang,Han Huang, Miqing Li
- * Sampling Configurations From Software Product Lines Via Probability-aware Diversification and SAT Solving, submitted
+ * Yi Xiang, et al
+ * Automated Test Suite Generation for Software Product Lines based on Quality-Diversity Optimisation, submitted
  * 
- * Data: 28/11/2021
- * Copyright (c) 2021 Yi Xiang
+ * Data: 16/11/2022
+ * Copyright (c) 2022 Yi Xiang
  * 
  * Note: This is a free software developed based on the open 
  * source projects PLEDGE <https://github.com/christopherhenard/pledge> 
